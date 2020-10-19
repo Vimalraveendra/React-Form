@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+###visualstudiocode###
+.vscode/
+.vscode/settings.json/
+
 # testing
 /coverage
 
